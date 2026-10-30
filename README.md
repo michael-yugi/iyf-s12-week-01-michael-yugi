@@ -1,4 +1,4 @@
-# iyf-s12-week-01-michaelyugi
+# iyf-s12-week-01-michael-yugi
 ## Live Demo
 
 
